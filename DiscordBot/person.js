@@ -25,3 +25,5 @@ class Person{
 }
 
 module.exports = Person;
+
+console.log('this is a test');
