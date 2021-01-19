@@ -1,3 +1,6 @@
+//Source for majority of code below:
+//https://www.youtube.com/watch?v=q0lsD7U0JSI&t=307s&ab_channel=CodeLyon
+
 require('dotenv').config();
 
 const { Client, Attachment } = require('discord.js');
